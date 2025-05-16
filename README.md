@@ -1,4 +1,3 @@
-```
 # 🌈 SensiCrew: Exploradores dos Sentidos
 
 **SensiCrew** é um projeto interativo baseado em agentes inteligentes com personalidades distintas, cada um com uma missão sensorial única. Os agentes utilizam LLMs e APIs para coletar e transformar dados sobre frutas, cores, gatos e percepções em reflexões poéticas e criativas.
@@ -53,5 +52,3 @@ Criar uma experiência divertida e criativa que explora o mundo das frutas, core
 - Compartilhar curiosidades felinas.
 - Sugerir uma paleta de cores harmoniosa.
 - Criar uma reflexão filosófica sensorial que una todos os dados.
-
-```
